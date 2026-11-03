@@ -1,0 +1,35 @@
+body{
+   background-image: url("images/wallhaven-gw1xel.png");
+   background-size: cover ;
+   background-repeat: no-repeat;
+   width: 100%;
+   min-height: 100vh;
+}
+
+.hero-img{
+    background-image: url("images/wallhaven-d8pqoo.png");
+    background-size: cover;
+    height: 200px;
+    width: 90vw;
+    margin: 10px ;
+    margin-top: 30px;
+}
+
+.pfp{
+    height: 60px;
+    border-radius: 5px;
+}
+
+.main-sec{
+    font-size: small;
+    margin: 30px ;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    text-shadow: 0 0 9px black;
+}
+
+.card{
+    width: 90%;
+    margin: 13px;
+}
